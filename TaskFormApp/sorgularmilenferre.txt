@@ -1,0 +1,59 @@
+Murat Duroğlu
+murat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PDF TEN ÖNCE LABELSSERIAL TABLOYA BAK.
+TABLOLARIN INDEX VE İSTATİSTİK BAKIMI YAPILMALIDIR.
+MATRİS MANTIĞI TEK SATIR QSFERRE EŞLEME TABLOSU.
+Yapılan barkod tasarımı değişemez(uyarı ver çıktı alındı.)
+Güncelleme yaparken labelserials a bir kayıt düştüyse güncelleme yapılamaz hale getirelim.
+PDF adları qs adı ile kaydedilecek.
+
+3'lü doğrulama mantığı qs ile görüşülecek.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
